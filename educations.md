@@ -19,6 +19,7 @@ Educations
 * **Master’s Degree in Engineering**, 06/09/2014–20/06/2016
   * School of Transportation and Logistics Engineering
   * Wuhan University of Technology
+  * Supervised by Professor Huiyuan Jiang
 * **Bachelor’s Degree in Arts** (minor), 01/03/2012–30/06/2014
   * School of Foreign Languages
   * Central China Normal University
