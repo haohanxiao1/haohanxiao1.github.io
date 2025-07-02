@@ -18,11 +18,11 @@ Educations
   * Supervised by Prof. Erik Verhoef, Dr. Vincent van den Berg
 * **Master’s Degree in Engineering**, 06/09/2014–20/06/2016
   * School of Transportation and Logistics Engineering
-  * Wuhan University of Technology
+  * Wuhan University of Technology, China
   * Supervised by Professor Huiyuan Jiang
 * **Bachelor’s Degree in Arts** (minor), 01/03/2012–30/06/2014
   * School of Foreign Languages
-  * Central China Normal University
+  * Central China Normal University, China
 * **Bachelor’s Degree in Engineering**, 13/09/2010–30/06/2014
   * School of Transportation and Logistics Engineering
-  * Wuhan University of Technology
+  * Wuhan University of Technology, China
