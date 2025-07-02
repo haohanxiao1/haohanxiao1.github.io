@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Professionals"
 permalink: /professionals/
 author_profile: true
 ---
