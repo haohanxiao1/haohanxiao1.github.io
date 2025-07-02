@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Work experience
+Work experiences
 ======
 * 13/03/2023-present:  **Associate Professor**
   * Department of Industrial Engineering, Jinan University
