@@ -19,5 +19,5 @@ Transport modeling and analysis
 Logistics operations and service design
 ======
 * Li Qilong, **Xiao Haohan***, Xu Min, Qu Ting. 2024. Investigating the impact of late deliveries on the operations of the crowd-shipping platform: A mean-variance analysis. ***Transportation Research Part E: Logistics and Transportation Review***, 192: 103793. [download](https://doi.org/10.1016/j.tre.2024.103793)
-* **Xiao Haohan**, Xu Min*, Wang Shuaian. 2023. Crowd-shipping as a Service: Game-based operating strategy design and analysis. ***Transportation Research Part B: Methodological**, 176: 102802. [download](https://doi.org/10.1016/j.trb.2023.102802)
+* **Xiao Haohan**, Xu Min*, Wang Shuaian. 2023. Crowd-shipping as a Service: Game-based operating strategy design and analysis. ***Transportation Research Part B: Methodological***, 176: 102802. [download](https://doi.org/10.1016/j.trb.2023.102802)
 * **Xiao Haohan**, Xu Min*, Wang Shuaian. 2023. A game-theoretic model for crowd-shipping operations with profit improvement strategies. ***International Journal of Production Economics***, 262: 108914. [download](https://doi.org/10.1016/j.ijpe.2023.108914)
