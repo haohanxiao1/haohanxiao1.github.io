@@ -20,5 +20,16 @@ Work experience
   * GitHub University
   * Supervisors: Professor Shuaian Wang and Dr. Min Xu
 
+Research areas
+======
+* Smart parking management
+* Public transport policy
+* Shared mobility
+* Crowdshipping logistics
+* Cross-border logistics
 
-
+Skills
+======
+* Mechanism design
+* Market equilibrium 
+* Game-theoretic modeling
