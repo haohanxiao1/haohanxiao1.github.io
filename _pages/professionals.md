@@ -7,8 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Work experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 13/03/2023-present: Associate Professor
+  * Department of Industrial Engineering, Jinan University
+
+* 09/05/2022-08/11/2022: Postdoctoral Fellow
+  * Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University
+  * Supervisor: Dr. Min Xu
+
+* 09/11/2020–08/05/2022: Postdoctoral Fellow
+  * GitHub University
+  * Supervisors: Professor Shuaian Wang and Dr. Min Xu
+
+
+
