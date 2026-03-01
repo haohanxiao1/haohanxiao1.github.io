@@ -8,6 +8,7 @@ author_profile: true
 
 Transport modeling and analysis
 ======
+* [8] Tian Yongwen, **Xiao Haohan**\*, Xu Meng. 2026. A mean–variance approach for shared parking operations considering the risk of slot matching. ***Transportation Research Part C: Emerging Technologies***, 185: 105567. [Link Text](https://doi.org/10.1016/j.trc.2026.105567)
 * [7] **Xiao Haohan**, Xu Min\*, Wang Shuaian. 2025. Does vehicle purchase tax effectively restrict car ownership and promote public transport? ***Transport Policy***, 164: 104-117. [Link Text](https://doi.org/10.1016/j.tranpol.2025.01.038)
 * [6] **Xiao Haohan**, Xu Min\*, Wang Shuaian. 2024. Auction-based parking mechanisms considering withdrawal behaviors. ***Transport Policy***, 147: 81-93. [Link Text](https://doi.org/10.1016/j.tranpol.2023.12.010)
 * [5] **Xiao Haohan**, Xu Meng\*. 2023. Competition among parking platforms in the presence of indirect network effects. ***Transportation Research Part C: Emerging Technologies***, 150: 104111. [Link Text](https://doi.org/10.1016/j.trc.2023.104111)
