@@ -14,6 +14,8 @@ Grants
   * Risk management for blockchain-based cross-border logistics in the Greater Bay Area
 * **Guangdong Basic and Applied Basic Research Foundation**, 11/2023-10/2026, PI
   * Operation strategy design and analysis for the smart parking system
+* **Guangdong Philosophy and Social Science Foundation**, 06/2026-06/2029, PI
+  * Multi-agent profit-sharing for integrated passenger and freight transportation
 * **Special Foundation for Key Research of Guangdong Universities**, 10/2024-09/2027, PI
   * Mechanism design for integrating passenger and freight transportation in rural areas
 * **China Postdoctoral Science Foundation (Special Funds)**, 07/2025-07/2027, PI
